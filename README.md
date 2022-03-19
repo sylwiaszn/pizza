@@ -1,5 +1,5 @@
 # sylwia
 line2
-Badziol nie lubi pizzy
+Badziol LUBI pizze
 line3 
 pizza pizza pizza pizza pizza
